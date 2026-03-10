@@ -4,5 +4,6 @@ if n == 2:
 else:
     print("Enter the correct number")
     
+    
 
     
